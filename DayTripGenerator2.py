@@ -3,6 +3,8 @@ from random import choice
 # Intro to game with instructions
 def intro():
     print("\n\n### Day Trip Generator ###\n")
+    print("\nYou will be asked to enter the categories you need help choicing from and then enter the options you are stuck between...\n")
+    print("After, we will pick out of your options and give you the choice to accept or deny our selection...\n")
     input(['PRESS ENTER TO START THE DAY TRIP GENERATOR'])
 
 
