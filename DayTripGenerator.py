@@ -1,5 +1,6 @@
 from random import choice
 
+
 # VARIABLES
 
 # Selection categories and selection options per category
